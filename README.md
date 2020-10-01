@@ -1,2 +1,2 @@
-# assignment-6
+# Assignment No-06
 Python Basics
